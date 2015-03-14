@@ -31,5 +31,5 @@ To do this task we have written a tool which will parse iozone result files and 
 
 <ul><li>We have very carefully confirmed that computed statistical data are correct. We have used GNU R, Open Office and Wolfram's Mathematica (via <a href='http://www.wolframalpha.com/'>Wolfram Alpha Search Engine</a>) to verify the results</li></ul>
 
-<h1>Further plans #
+# Further plans #
   * All the planned features were implemented in the current version of the tool. If you happen to have a feature or bugfix request, you're welcome to contact us.
